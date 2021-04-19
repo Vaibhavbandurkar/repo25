@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is AE00-61A0
+
+ Directory of C:\Users\Vaibhav Bandurkar\Desktop\Git
+
+19-04-2021  19:06    <DIR>          .
+19-04-2021  19:06    <DIR>          ..
+19-04-2021  19:06                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  83,593,498,624 bytes free
